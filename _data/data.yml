@@ -131,20 +131,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+          details: | 
+          The BPMN modeling method (Business Process Model and Notation) allows the modeler to integrate three domains: process, participants, and information/data. Processes are described using activities, events, gateways, and flows. The participants of the process are represented by using lanes and pools. Information/data can be input, output, or updated during process execution. 
         - name: Certified SAFe 5 Agilist
           start: 2019
           end:
@@ -152,15 +140,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          details: | 
+          Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). SAFe is gebaseerd op Agile en Lean-productontwikkeling,  systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en een gestructureerde aanpak bestaande uit: rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
         - name: EXIN BCS Foundation
           start: 2018
           end:
@@ -169,14 +150,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          EXIN BCS Foundation Certificate in Business Analysis covers a range of fundamental knowledge needed for a business analysis role. This includes the roles and competencies required as well as strategic analysis, business system, process modeling, and business case development.
         - name: PRINCE2 Foundation
           start: 2018
           end:
@@ -184,42 +158,8 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-            
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          details: | 
+          PRINCE2 is een methode op procesbasis voor effectief projectmanagement waarmee u de fundamentele vaardigheden leert die nodig zijn om een ​​succesvolle projectmanager te worden. Het staat voor PRojects IN Controlled Environments en wordt over de hele wereld gebruikt en erkend.
 
 skills:
     title: Vaardigheden
