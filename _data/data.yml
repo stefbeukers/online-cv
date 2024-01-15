@@ -70,7 +70,7 @@ education:
     title: Opleiding
     info:
       - degree: MSc in Communicatiewetenschap
-        university: Radboud University
+        university: Radboud University Nijmegen
         time: 2016 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -81,7 +81,7 @@ education:
             - Bullet point
             - Bullet point
       - degree: BSc in Communicatiewetenschap
-        university: Radboud University
+        university: Radboud University Nijmegen
         time: 2012 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
