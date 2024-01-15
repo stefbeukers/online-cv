@@ -16,7 +16,7 @@ sidebar:
     email: 
     phone: 
     timezone: Arnhem, Nederland
-    citizenship: Nederlands
+    citizenship: 
     website: stefbeukers.nl #do not add http://
     linkedin: stefbeukers
     xing: 
@@ -31,7 +31,7 @@ sidebar:
     pdf: 
 
     languages:
-      title: Languages
+      title: Talen
       info:
         - idiom: Nederlands
           level: Moedertaal
