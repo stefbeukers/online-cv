@@ -4,54 +4,57 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Stef Beukers
+    tagline: Senior Business Analist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: stefbeukers@gmail.com
+    phone: 
+    timezone: Arnhem, Nederland
+    citizenship: Nederlands
+    website: stefbeukers.nl #do not add http://
+    linkedin: stefbeukers
+    xing: 
+    github: stefbeukers
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
+        - idiom: Nederlands
+          level: Moedertaal
 
-        - idiom: French
-          level: Professional
+        - idiom: Engels
+          level: Professioneel
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Duits
+          level: Basis
 
+        - idiom: Italiaans
+          level: Basis
+          
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Hardlopen
           link:
 
-        - item: Snowboarding
+        - item: Wandelen
           link:
 
-        - item: Cooking
+        - item: Koken
           link:
 
 career-profile:
@@ -64,11 +67,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Opleiding
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master of Science in Communicatiewetenschap
+        university: Radboud Universiteit Nijmegen
+        time: 2016 - 2017
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,9 +80,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor of Science in Communicatiewetenschap
+        university: Radboud Universiteit Nijmegen
+        time: 2012 - 2016
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -90,11 +93,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Ervaring
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Business Analist
+        time: 2023 - Heden
+        company: UWV, Amsterdam
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -107,9 +110,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Business Analist
+        time: 2018 - 2023
+        company: UWV, Amsterdam
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -118,9 +121,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Trainee Informatievoorziening
+        time: 2017 - 2018
+        company: UWV, Amsterdam
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -131,15 +134,15 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: Certificering
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: BPMN Foundation
+          start: 2023
+          end: 
+          organization: BizzDesign
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -154,13 +157,13 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Certified SAFe 5 Agilist
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Scaled Agile Inc.
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
             Older certification. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -170,7 +173,39 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
+        - name: EXIN BCS Foundation
+          start: 2018
+          end:
+          organization: EXIN
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+        - name: PRINCE2 Foundation
+          start: 2018
+          end:
+          organization: PeopleCert
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+            
 projects:
     title: Projects
     intro: >
@@ -240,26 +275,17 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Vaardigheden
 
     toolset:
-      - name: Python & Django
+      - name: Office 365
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: JIRA
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Confluence
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
