@@ -142,7 +142,7 @@ certifications:
           credentialname: 
           details: | 
           Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). SAFe is gebaseerd op Agile en Lean-productontwikkeling,  systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en een gestructureerde aanpak bestaande uit: rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
-        - name: EXIN BCS Foundation
+        - name: BCS Foundation
           start: 2018
           end:
           organization: EXIN
