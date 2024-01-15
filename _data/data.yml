@@ -140,6 +140,10 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+            Describe your certification here lorem ipsum dolor sit amet, consectetuer
+            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+            Cum sociis natoque penatibus et magnis dis parturient montes,
+            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         - name: BCS Foundation
           start: 2018
           end:
@@ -148,6 +152,10 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+            Describe your certification here lorem ipsum dolor sit amet, consectetuer
+            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+            Cum sociis natoque penatibus et magnis dis parturient montes,
+            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         - name: PRINCE2 Foundation
           start: 2018
           end:
@@ -156,6 +164,10 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+            Describe your certification here lorem ipsum dolor sit amet, consectetuer
+            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+            Cum sociis natoque penatibus et magnis dis parturient montes,
+            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 skills:
     title: Vaardigheden
