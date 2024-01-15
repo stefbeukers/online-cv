@@ -131,8 +131,10 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: | 
-          The BPMN modeling method (Business Process Model and Notation) allows the modeler to integrate three domains process, participants, and information/data. Processes are described using activities, events, gateways, and flows. The participants of the process are represented by using lanes and pools. Information/data can be input, output, or updated during process execution. 
+          details: |
+          The BPMN modeling method (Business Process Model and Notation) allows the modeler to integrate three domains process, participants, and information/data. 
+          Processes are described using activities, events, gateways, and flows. The participants of the process are represented by using lanes and pools. 
+          Information/data can be input, output, or updated during process execution. 
         - name: Certified SAFe 5 Agilist
           start: 2019
           end:
@@ -140,8 +142,11 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: | 
-          Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). SAFe is gebaseerd op Agile en Lean-productontwikkeling,  systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en een gestructureerde aanpak bestaande uit rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
+          details: |
+          Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). 
+          SAFe is gebaseerd op Agile en Lean-productontwikkeling, systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en 
+          een gestructureerde aanpak bestaande uit rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van 
+          duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
         - name: BCS Foundation
           start: 2018
           end:
@@ -150,7 +155,8 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-          EXIN BCS Foundation Certificate in Business Analysis covers a range of fundamental knowledge needed for a business analysis role. This includes the roles and competencies required as well as strategic analysis, business system, process modeling, and business case development.
+          BCS Foundation Certificate in Business Analysis covers a range of fundamental knowledge needed for a business analysis role. 
+          This includes the roles and competencies required as well as strategic analysis, business system, process modeling, and business case development.
         - name: PRINCE2 Foundation
           start: 2018
           end:
@@ -158,8 +164,9 @@ certifications:
           credentialid: 
           credentialurl: 
           credentialname: 
-          details: | 
-          PRINCE2 is een methode op procesbasis voor effectief projectmanagement waarmee u de fundamentele vaardigheden leert die nodig zijn om een ​​succesvolle projectmanager te worden. Het staat voor PRojects IN Controlled Environments en wordt over de hele wereld gebruikt en erkend.
+          details: |
+          PRINCE2 is een methode op procesbasis voor effectief projectmanagement waarmee u de fundamentele vaardigheden leert die nodig zijn om een ​​succesvolle projectmanager te worden. 
+          Het staat voor PRojects IN Controlled Environments en wordt over de hele wereld gebruikt en erkend.
 
 skills:
     title: Vaardigheden
