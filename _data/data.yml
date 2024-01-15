@@ -53,7 +53,6 @@ career-profile:
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
 education:
     title: Opleiding
     info:
@@ -66,8 +65,6 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: BSc in Communicatiewetenschap
         university: Radboud University Nijmegen
         time: 2012 - 2016
@@ -77,8 +74,6 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Ervaring
@@ -92,8 +87,6 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem. 
-            - Bullet point
-            - Bullet point
       - role: Business Analist
         time: 2018 - 2023
         company: UWV, Amsterdam
@@ -103,8 +96,6 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - role: Trainee Informatievoorziening
         time: 2017 - 2018
         company: UWV, Amsterdam
@@ -114,8 +105,6 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 certifications:
       title: Certificering
@@ -183,4 +172,3 @@ skills:
         level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
