@@ -132,7 +132,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: | 
-          The BPMN modeling method (Business Process Model and Notation) allows the modeler to integrate three domains: process, participants, and information/data. Processes are described using activities, events, gateways, and flows. The participants of the process are represented by using lanes and pools. Information/data can be input, output, or updated during process execution. 
+          The BPMN modeling method (Business Process Model and Notation) allows the modeler to integrate three domains process, participants, and information/data. Processes are described using activities, events, gateways, and flows. The participants of the process are represented by using lanes and pools. Information/data can be input, output, or updated during process execution. 
         - name: Certified SAFe 5 Agilist
           start: 2019
           end:
@@ -141,7 +141,7 @@ certifications:
           credentialurl: 
           credentialname: 
           details: | 
-          Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). SAFe is gebaseerd op Agile en Lean-productontwikkeling,  systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en een gestructureerde aanpak bestaande uit: rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
+          Het Scaled Agile Framework is een model waarmee je Agile werkwijzen organisatiebreed kan opschalen (Enterprise niveau). SAFe is gebaseerd op Agile en Lean-productontwikkeling,  systeemdenken en DevOps. Als organisaties groter worden, biedt SAFe een raamwerk en een gestructureerde aanpak bestaande uit rollen, verantwoordelijkheden en workflows, waarmee werk kan worden gepland en uitgevoerd. Dit alles gebeurt onder een paraplu van duidelijke normen en waarden. Een SAFe-Agilist houdt deze waarden bij het uitvoeren van zijn/haar werkzaamheden altijd in het vizier.
         - name: BCS Foundation
           start: 2018
           end:
