@@ -53,6 +53,7 @@ career-profile:
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
+
 education:
     title: Opleiding
     info:
@@ -60,20 +61,10 @@ education:
         university: Radboud University Nijmegen
         time: 2016 - 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
       - degree: BSc Communicatiewetenschap
         university: Radboud University Nijmegen
         time: 2012 - 2016
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
 
 experiences:
     title: Ervaring
@@ -117,10 +108,6 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Describe your certification here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes,
-            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         - name: Certified SAFe 5 Agilist
           start: 2019
           end:
@@ -129,10 +116,6 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Describe your certification here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes,
-            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         - name: BCS Foundation
           start: 2018
           end:
@@ -141,10 +124,6 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Describe your certification here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes,
-            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
         - name: PRINCE2 Foundation
           start: 2018
           end:
@@ -153,10 +132,6 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Describe your certification here lorem ipsum dolor sit amet, consectetuer
-            adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-            Cum sociis natoque penatibus et magnis dis parturient montes,
-            nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
 skills:
     title: Vaardigheden
