@@ -16,7 +16,7 @@ sidebar:
     email: 
     phone: 
     timezone: Arnhem, Nederland
-    citizenship: 
+    citizenship: Nederlands
     website: stefbeukers.nl #do not add http://
     linkedin: stefbeukers
     xing: 
@@ -56,7 +56,7 @@ career-profile:
 education:
     title: Opleiding
     info:
-      - degree: MSc in Communicatiewetenschap
+      - degree: MSc Communicatiewetenschap
         university: Radboud University Nijmegen
         time: 2016 - 2017
         details: |
@@ -65,7 +65,7 @@ education:
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-      - degree: BSc in Communicatiewetenschap
+      - degree: BSc Communicatiewetenschap
         university: Radboud University Nijmegen
         time: 2012 - 2016
         details: |
@@ -163,12 +163,15 @@ skills:
 
     toolset:
       - name: Office 365
-        level: 93%
+        level: 90%
 
       - name: JIRA
-        level: 98%
+        level: 95%
 
       - name: Confluence
-        level: 85%
+        level: 83%
+
+      - name: Miro
+        level: 75%
 
 footer: >
